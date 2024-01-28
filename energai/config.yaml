@@ -1,7 +1,7 @@
 name: "EnergAI"
 description: "EnergAI Addon for HomeAssistant"
 version: "1.0.0"
-slug: "energAI"
+slug: "energai"
 init: false
 arch:
   - aarch64
