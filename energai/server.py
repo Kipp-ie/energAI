@@ -6,7 +6,7 @@ class DirectoryListingHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         # Check if the request is for the root directory
         if self.path == "/":
-            self.path = "../index.html"  # Serve index.html for root directory
+            self.path = "index.html"  # Serve index.html for root directory
 
         # Call the base class method to serve the file
         return http.server.SimpleHTTPRequestHandler.do_GET(self)

@@ -1,3 +1,3 @@
-EnergAI 1.0.11
+EnergAI 1.0.12
 
-- Changed the webserver
+- Fixed my bad coding lmao
