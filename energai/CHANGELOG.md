@@ -1,3 +1,3 @@
-EnergAI 1.0.8
+EnergAI 1.0.9
 
 - Changed the webserver
