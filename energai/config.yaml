@@ -1,6 +1,6 @@
 name: "EnergAI"
 description: "EnergAI Addon for HomeAssistant"
-version: "1.0.0"
+version: "1.0.1"
 slug: "energai"
 init: false
 arch:
@@ -9,3 +9,6 @@ arch:
   - armhf
   - armv7
   - i386
+startup: services
+ports:
+  8000/tcp: 8000
