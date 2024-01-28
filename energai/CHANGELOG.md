@@ -1,4 +1,3 @@
-EnergAI 1.0.3
+EnergAI 1.0.4
 
-- Made an index.html
-- Security improvements
+- Changed the webserver
