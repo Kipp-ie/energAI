@@ -1,6 +1,6 @@
 name: "EnergAI"
 description: "EnergAI Addon for HomeAssistant"
-version: "1.0.14"
+version: "1.0.15"
 slug: "energai"
 init: false
 ingress: true
