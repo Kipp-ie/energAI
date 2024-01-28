@@ -1,3 +1,3 @@
-EnergAI 1.0.13
+EnergAI 1.0.14
 
-- Fixed my bad coding lmao
+- I'm dying
