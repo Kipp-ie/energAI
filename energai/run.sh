@@ -1,4 +1,5 @@
 #!/usr/bin/with-contenv bashio
 
-echo "Hello world!"
-python3 -m http.server 8000
+echo "EnergAI Started"
+python3 server.py
+echo "EnergAI Webserver Started"
