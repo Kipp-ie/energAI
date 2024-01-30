@@ -1,3 +1,4 @@
-EnergAI 1.0.15
+EnergAI 1.0.17
 
-- I'm dying
+- New page!
+- Not more lmao
